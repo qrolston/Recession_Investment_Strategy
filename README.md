@@ -1,6 +1,8 @@
 # Recession Investment Strategy
-![banner with stock market graphic, title of notebook and description of notebook ](images/1.png)
-This is a multi-function jupyter lab notebook (store as **Recession_Investment_Strategy.ipynb**) that compares investment returns from the previous four recessions across multiple indexes. As we enter a recession in 2022 it is a pertinent time to look at previous recessions to plan for the future. In this notebook we hope to answer the following questions:
+![banner with stock market graphic, title of notebook and description of notebook ](images/0.png)
+
+
+This is a multi-function jupyter lab notebook (stored as **Recession_Investment_Strategy.ipynb**) that compares investment returns from the previous four recessions across multiple indexes. As we enter a recession in 2022 it is a pertinent time to look at previous recessions to plan for the future. In this notebook we hope to answer the following questions:
 
 * Which investment sectors performed the best in each recession period?
 * Does the current market resemble any of the recession periods analyzed? 
