@@ -22,6 +22,10 @@ This project leverages python 3.7 with the following packages:
 * [hvplot](https://github.com/holoviz/hvplot) 
 
 * [yfinance](https://github.com/ranaroussi/yfinance)
+
+* [matplotlib](https://github.com/matplotlib/matplotlib)
+
+* [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 ---
 
 ## Installation Guide
@@ -32,6 +36,9 @@ Before running the application first install the following dependencies.
   pip install pandas
   pip install hvplot
   pip install yfinance --upgrade --no-cache-dir
+  pip install SQLAlchemy
+  python -m pip install -U pip
+  python -m pip install -U matplotlib
 ```
 
 ---
